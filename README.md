@@ -1,2 +1,5 @@
 # my-github-demo
-this i it
+
+
+This is my repository consisting of my practice in python till now.
+
